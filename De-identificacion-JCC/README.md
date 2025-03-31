@@ -185,6 +185,3 @@ def secure_inference(model, input_text):
 4. IEEE Standard for Privacy Protection in AI Systems
 5. ISO/IEC 27018:2019 - Protection of Personally Identifiable Information
 
-## Créditos
-
-Documentación creada por Janier Chará Cardona como parte del curso de Privacidad en IA.
